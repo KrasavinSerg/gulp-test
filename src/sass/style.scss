@@ -1,0 +1,16 @@
+body {
+  // background-color: coral;
+  background-color: lightskyblue;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0px;
+  display: flex;
+  display: grid;
+}
+
+::placeholder {
+  color: gray;
+}

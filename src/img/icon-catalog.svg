@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="3.-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components-/-Filter" transform="translate(-22.000000, -164.000000)" fill="#2F3032" fill-rule="nonzero">
+            <path d="M22,165 C22,164.447715 22.4457699,164 22.9986458,164 L41.0013542,164 C41.552891,164 42,164.448839 42,165 C42,165.552285 41.5542301,166 41.0013542,166 L22.9986458,166 C22.447109,166 22,165.551161 22,165 Z M22,171 C22,170.447715 22.4457699,170 22.9986458,170 L41.0013542,170 C41.552891,170 42,170.448839 42,171 C42,171.552285 41.5542301,172 41.0013542,172 L22.9986458,172 C22.447109,172 22,171.551161 22,171 Z M22,177 C22,176.447715 22.4457699,176 22.9986458,176 L41.0013542,176 C41.552891,176 42,176.448839 42,177 C42,177.552285 41.5542301,178 41.0013542,178 L22.9986458,178 C22.447109,178 22,177.551161 22,177 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
